@@ -1,0 +1,113 @@
+{
+  "run_id": "40143a00",
+  "subject": 1,
+  "practice": false,
+  "seed": 1,
+  "started": "2026-09-04T16:31:22.941",
+  "monitor": {
+    "width_cm": 52.0,
+    "distance_cm": 57.0,
+    "size_pix": [
+      "3024",
+      "1964"
+    ]
+  },
+  "frmrate_measured": 60,
+  "versions": {
+    "python": "3.9.23",
+    "numpy": "1.23.5",
+    "platform": "macOS-15.7.3-arm64-arm-64bit",
+    "psychopy": "2022.2.5"
+  },
+  "params": {
+    "dotsize": 12,
+    "dotedgesize": 1,
+    "linewidth": 3,
+    "cuesize": 25,
+    "cuewidth": 5,
+    "displayhoriz": 900,
+    "displayvert": 900,
+    "buffer": 5,
+    "numdotgroups": 2,
+    "numtargets": 1,
+    "chasedistthresh_mult": 8,
+    "use_euclidean_onset": false,
+    "block_defs": [
+      {
+        "label": "2 predators",
+        "predator_dots": 2,
+        "numdotspergroup": 1
+      },
+      {
+        "label": "4 predators",
+        "predator_dots": 4,
+        "numdotspergroup": 2
+      },
+      {
+        "label": "6 predators",
+        "predator_dots": 6,
+        "numdotspergroup": 3
+      }
+    ],
+    "block_duration_secs": 120.0,
+    "showcue": false,
+    "frmrate_expected": 60,
+    "cueduration": 1.0,
+    "ITI": 0.5,
+    "blackout_secs": 0.2,
+    "end_trial_on_hit": true,
+    "end_trial_on_false_alarm": true,
+    "end_trial_on_catch": true,
+    "trial_blank_secs": 0.5,
+    "flash_col": [
+      0,
+      255,
+      0
+    ],
+    "flash_duration": 1,
+    "stepsize": 1,
+    "targetstepsize": 0.5,
+    "dirchfreq": 1.0,
+    "chasechxfreq1": 0.5035,
+    "chasechxfreq2": 0.5035,
+    "wiggle": 0.2,
+    "targwiggle": 0.03,
+    "catch_dist_mult": 1.5,
+    "targ_col": [
+      255,
+      0,
+      0
+    ],
+    "grp1_col": [
+      0,
+      0,
+      0
+    ],
+    "grp2_col": [
+      0,
+      0,
+      0
+    ],
+    "bkgd_col": [
+      160,
+      160,
+      160
+    ],
+    "frame_col": [
+      0,
+      0,
+      0
+    ],
+    "cue_col": [
+      0,
+      225,
+      0
+    ],
+    "feedbacktype": 0,
+    "practice_seed_offset": 100000,
+    "frmrate_measured": 60
+  },
+  "instruction_screen_secs": 2.117,
+  "experiment_secs": 10.852,
+  "ended": "2026-09-04T16:31:35.977"
+}

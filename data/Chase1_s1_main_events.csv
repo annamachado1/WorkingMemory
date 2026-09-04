@@ -1,0 +1,8 @@
+datetime,run_id,subject,practice,seed,block_order,block_label,predator_dots,trial_num,event_num,event_type,key_name,rt_ms,trial_start_time,chase_onset_time,button_press_time,chase_finish_time,chaser_idx,chaser_group,onset_dx,onset_dy,onset_dist,onset_dist_from_trial_start,prey_x,prey_y,chaser_x,chaser_y
+2026-09-04T16:31:29.255,40143a00,1,0,1,1,2 predators,2,1,1,Hit,,2418.6,0.0001,0.1944,2.6131,,1,1,499.08,194.87,535.77,18.82,189.04,233.69,65.17,123.81
+2026-09-04T16:31:33.307,40143a00,1,0,1,1,2 predators,2,2,2,Hit,,2023.4,4.1224,4.6419,6.6654,,1,1,447.02,162.37,475.59,31.74,309.55,-133.77,-20.58,-219.94
+2026-09-04T16:31:35.976,40143a00,1,0,1,1,2 predators,2,3,3,Block Aborted,,,8.1865,,,9.3346,,,,,,,,,,
+2026-09-04T16:36:30.500,018928b7,1,0,1,1,2 predators,2,1,1,Hit,,1112.2,0.0001,0.1932,1.3056,,1,1,499.08,194.87,535.77,18.82,260.72,209.41,-66.36,38.82
+2026-09-04T16:36:36.124,018928b7,1,0,1,1,2 predators,2,2,2,False Alarm,,,2.8267,,6.9297,,,,,,,,,,,
+2026-09-04T16:36:48.029,018928b7,1,0,1,1,2 predators,2,3,3,Hit,,770.7,7.4416,18.0635,18.8343,,1,1,-102.14,345.35,360.14,224.01,97.20,163.50,204.12,-67.52
+2026-09-04T16:36:49.845,018928b7,1,0,1,1,2 predators,2,4,4,Block Aborted,,,20.3581,,,20.6507,,,,,,,,,,

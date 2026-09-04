@@ -1,0 +1,22 @@
+name: NovelStimuli
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - matplotlib
+  - numpy=1.23.5
+  - psychopy
+  - wxpython
+  - pyopengl
+  - pillow
+  - scipy
+  - pip
+  - pip:
+    - pyglet==1.5.27  # Pin pyglet to version 1.x for PsychoPy
+    - soundfile
+    - python-vlc
+    - pygame
+    - psychtoolbox
+    - sounddevice
+    # - pyo  # Removed to avoid sound conflicts with PsychoPy
